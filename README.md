@@ -5,6 +5,7 @@ Here you can find some of the personal projects I have worked on.
 Some additional projects I was involved in:
 * A Spring Boot + Spring Security application for e-commerce https://github.com/marcelmroz/e-commerce-backend
 * Frontend for the above application https://github.com/marcelmroz/e-commerce-frontend
+* A C++ distributed processing program https://github.com/KowalewskiBartlomiej/PRozproszone_21-22_Wojna
 
 <!--
 **Domek3006/Domek3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
